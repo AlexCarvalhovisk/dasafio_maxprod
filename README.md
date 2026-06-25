@@ -1,10 +1,3 @@
-# desafio_maxprod
-Esse é um desafio de análise de requisitos de um ERP voltado para indústria.
-
-> **Status:** ✅ Concluído  
-> **Tipo:** Desafio Técnico  
-> **Área:** Análise de Requisitos / Produto  
-> **Empresa:** Maxiprod ERP
 
 # 📋 Desafio Técnico – Analista de Requisitos | Maxiprod
 
@@ -135,10 +128,17 @@ A documentação foi produzida exclusivamente para fins de avaliação técnica 
 
 ---
 
+> **Status:** ✅ Concluído  
+> **Tipo:** Desafio Técnico  
+> **Área:** Análise de Requisitos / Produto  
+> **Empresa:** Maxiprod ERP
+
+---
+
 ## Autor
 
 **Alex Carvalho**
 
-Analista de Sistemas • Desenvolvedor Backend • Estudante de Engenharia de Requisitos e Produto
+Analista de Sistemas • Desenvolvedor Backend • Eterno estudante de TI
 
 
